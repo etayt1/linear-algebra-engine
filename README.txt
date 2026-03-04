@@ -1,4 +1,5 @@
-Yeeli Maliar (323856443)
-Lior Halfon (322595273)
+SPL – Assignment 2
+Linear Algebra Engine
 
-31/12/2025
+BGU – Systems Programming Lab
+Java implementation of a multithreaded linear algebra engine.
